@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Teknoloji Bağımlılığı</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Teknoloji Bağımlılığından kurtulmak için bazı öneriler;!</h1>
+    <p>Teknoloji bağımlılığından kurtulmak için aşağıdaki adımları izleyebilirsiniz:
+
+        Farkındalık Oluşturun: Bağımlılığınızın farkına varmak önemlidir. Ne kadar zamanınızı teknolojiyle geçirdiğinizi ve bu durumun hayatınızı nasıl etkilediğini gözlemleyin.
+        
+        Hedef Belirleyin: Teknoloji kullanımını azaltmak veya dengelemek için belirli hedefler belirleyin. Örneğin, gün içinde belirli bir süre sosyal medya kullanmayı sınırlamak gibi.
+        
+        Zaman Yönetimi Becerilerinizi Geliştirin: Teknoloji kullanımını kontrol altına almak için zaman yönetimi becerilerinizi geliştirin. Günlük rutinler oluşturun ve belirli zaman dilimlerinde teknoloji kullanımına sınırlamalar getirin.
+        
+        Alternatif Aktiviteler Bulun: Teknoloji dışında yapabileceğiniz aktiviteler bulun. Kitap okuma, açık havada yürüyüş yapma, spor yapma, el işleri gibi aktivitelerle zamanınızı doldurun.
+        
+        Teknolojiyi Kullanım Amacına Göre Kullanın: Teknolojiyi sadece iş, eğitim veya iletişim gibi belirli amaçlar için kullanmaya özen gösterin. Anlamsızca zaman geçirmek yerine, belirli bir hedefiniz doğrultusunda teknolojiyi kullanın.
+        
+        Sınırlamalar Getirin: Teknoloji kullanımını sınırlamak için kendinize belirli kurallar koyun. Örneğin, yatak odasında telefon kullanmamak gibi kurallar belirleyebilirsiniz.
+        
+        Destek Alın: Teknoloji bağımlılığıyla başa çıkmak için profesyonel destek alabilirsiniz. Bir terapist veya danışman, size bu konuda yardımcı olabilir ve stratejiler geliştirmenize yardımcı olabilir.
+        
+        Kendinize Güvenin: Teknoloji kullanımını azaltma veya dengeleme konusunda kendinize güvenin ve bu konuda kararlı olun. Başlangıçta zor olabilir, ancak zamanla alışacaksınız ve daha sağlıklı bir denge kuracaksınız.
+        
+        Teknoloji bağımlılığından kurtulma süreci herkes için farklı olabilir, bu nedenle sabırlı olun ve kendinize zaman tanıyın. Önemli olan, teknolojinin hayatınızı olumlu bir şekilde etkilemesini sağlamak ve sağlıklı bir denge kurmaktır.</p>
+    <h2>Bu yolları izlerseniz daha kaliteli bir hayata sahip olacaksınız</h2>
+             
+     <img src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"alt="Image1"
+     width="300"
+     height="300"/>
+
+     <iframe src="https://www.meteoblue.com/tr/hava/widget/daily/ankara_t%c3%bcrkiye_323786?geoloc=fixed&days=4&tempunit=CELSIUS&windunit=KILOMETER_PER_HOUR&precipunit=MILLIMETER&coloured=coloured&pictoicon=0&pictoicon=1&maxtemperature=0&maxtemperature=1&mintemperature=0&mintemperature=1&windspeed=0&windspeed=1&windgust=0&winddirection=0&winddirection=1&uv=0&humidity=0&precipitation=0&precipitation=1&precipitationprobability=0&precipitationprobability=1&spot=0&spot=1&pressure=0&layout=light"  frameborder="0" scrolling="NO" allowtransparency="true" sandbox="allow-same-origin allow-scripts allow-popups allow-popups-to-escape-sandbox" style="width: 216px; height: 420px"></iframe><div><!-- DO NOT REMOVE THIS LINK --><a href="https://www.meteoblue.com/tr/hava/hafta/ankara_t%c3%bcrkiye_323786?utm_source=weather_widget&utm_medium=linkus&utm_content=daily&utm_campaign=Weather%2BWidget" target="_blank" rel="noopener">meteoblue</a></div>
+</body>
+</html>
